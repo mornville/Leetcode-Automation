@@ -8,6 +8,8 @@ OPTS.headless = False
 MAX_NO_OF_TRIES = 20
 DRIVER = webdriver.Chrome(ChromeDriverManager().install(), options=OPTS)
 PARENT_DIR = "Problems"
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
 LANGUAGE_EXT = {
     "python":".py",
     "python3":".py",
@@ -82,7 +84,7 @@ if __name__ == "__main__":
     DRIVER.get("https://leetcode.com/accounts/login")
 
     """ Add Username and password """
-    if(not a.login("USERNAME", "PASSWORD")):
+    if(not a.login(USERNAME, PASSWORD)):
         print("Login Unsuccessful")
         sys.exit(0)
     print("Success Login")
