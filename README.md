@@ -7,4 +7,5 @@ Searches for all the solved questions on Leetcode, downloads the latest Accepted
 ### Installation
   - `git clone https://github.com/mornville/Leetcode-Automation.git`
   - `pip3 install requirements.txt`
+  - Change username & password in `scraper.py`
   - `python3 scraper.py`
