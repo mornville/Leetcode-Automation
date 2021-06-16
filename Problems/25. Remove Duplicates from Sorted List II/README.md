@@ -1,0 +1,3 @@
+# 25. Remove Duplicates from Sorted List II
+### Difficulty: Medium
+Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well. <br/>   <br/><b>- Example</b> 1: <br/> Input: head = [1,2,3,3,4,4,5] <br/> Output: [1,2,5] <br/> <br/><b>- Example</b> 2: <br/> Input: head = [1,1,1,2,3] <br/> Output: [2,3] <br/>   Constraints: <br/> The number of nodes in the list is in the range [0, 300]. <br/> -100 <= Node.val <= 100 <br/> The list is guaranteed to be sorted in ascending order.

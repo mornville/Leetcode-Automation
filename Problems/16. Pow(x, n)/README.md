@@ -1,0 +1,3 @@
+# 16. Pow(x, n)
+### Difficulty: Medium
+Implement pow(x, n), which calculates x raised to the power n (i.e., xn). <br/>   <br/><b>- Example</b> 1: <br/> Input: x = 2.00000, n = 10 <br/> Output: 1024.00000 <br/> <br/><b>- Example</b> 2: <br/> Input: x = 2.10000, n = 3 <br/> Output: 9.26100 <br/> <br/><b>- Example</b> 3: <br/> Input: x = 2.00000, n = -2 <br/> Output: 0.25000 <br/> Explanation: 2-2 = 1/22 = 1/4 = 0.25 <br/>   Constraints: <br/> -100.0 < x < 100.0 <br/> -231 <= n <= 231-1 <br/> -104 <= xn <= 104

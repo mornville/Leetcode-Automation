@@ -1,0 +1,3 @@
+# 18. Length of Last Word
+### Difficulty: Easy
+Given a string s consists of some words separated by spaces, return the length of the last word in the string. If the last word does not exist, return 0. <br/> A word is a maximal substring consisting of non-space characters only. <br/>   <br/><b>- Example</b> 1: <br/> Input: s = "Hello World" <br/> Output: 5 <br/> <br/><b>- Example</b> 2: <br/> Input: s = " " <br/> Output: 0 <br/>   Constraints: <br/> 1 <= s.length <= 104 <br/> s consists of only English letters and spaces ' '.

@@ -1,0 +1,3 @@
+# 22. Sqrt(x)
+### Difficulty: Easy
+Given a non-negative integer x, compute and return the square root of x. <br/> Since the return type is an integer, the decimal digits are truncated, and only the integer part of the result is returned. <br/> Note: You are not allowed to use any built-in exponent function or operator, such as pow(x, 0.5) or x ** 0.5. <br/>   <br/><b>- Example</b> 1: <br/> Input: x = 4 <br/> Output: 2 <br/> <br/><b>- Example</b> 2: <br/> Input: x = 8 <br/> Output: 2 <br/> Explanation: The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned. <br/>   Constraints: <br/> 0 <= x <= 231 - 1

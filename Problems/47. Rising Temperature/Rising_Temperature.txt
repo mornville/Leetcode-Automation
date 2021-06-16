@@ -1,0 +1,3 @@
+select DISTINCT curr.id
+from Weather curr
+where curr.temperature > (select prev.temperature from weather prev where prev.recorddate = curr.recorddate-1)

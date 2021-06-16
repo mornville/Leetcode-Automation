@@ -1,0 +1,3 @@
+# 103. Defanging an IP Address
+### Difficulty: Easy
+Given a valid (IPv4) IP address, return a defanged version of that IP address. <br/> A defanged IP address replaces every period "." with "[.]". <br/>   <br/><b>- Example</b> 1: <br/> Input: address = "1.1.1.1" <br/> Output: "1[.]1[.]1[.]1" <br/> <br/><b>- Example</b> 2: <br/> Input: address = "255.100.50.0" <br/> Output: "255[.]100[.]50[.]0" <br/>   Constraints: <br/> The given address is a valid IPv4 address.

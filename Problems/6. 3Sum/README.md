@@ -1,0 +1,3 @@
+# 6. 3Sum
+### Difficulty: Medium
+Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. <br/> Notice that the solution set must not contain duplicate triplets. <br/>   <br/><b>- Example</b> 1: <br/> Input: nums = [-1,0,1,2,-1,-4] <br/> Output: [[-1,-1,2],[-1,0,1]] <br/> <br/><b>- Example</b> 2: <br/> Input: nums = [] <br/> Output: [] <br/> <br/><b>- Example</b> 3: <br/> Input: nums = [0] <br/> Output: [] <br/>   Constraints: <br/> 0 <= nums.length <= 3000 <br/> -105 <= nums[i] <= 105

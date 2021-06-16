@@ -1,0 +1,3 @@
+# 112. Number of Good Pairs
+### Difficulty: Easy
+Given an array of integers nums. <br/> A pair (i,j) is called good if nums[i] == nums[j] and i < j. <br/> Return the number of good pairs. <br/>   <br/><b>- Example</b> 1: <br/> Input: nums = [1,2,3,1,1,3] <br/> Output: 4 <br/> Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed. <br/> <br/><b>- Example</b> 2: <br/> Input: nums = [1,1,1,1] <br/> Output: 6 <br/> Explanation: Each pair in the array are good. <br/> <br/><b>- Example</b> 3: <br/> Input: nums = [1,2,3] <br/> Output: 0 <br/>   Constraints: <br/> 1 <= nums.length <= 100 <br/> 1 <= nums[i] <= 100

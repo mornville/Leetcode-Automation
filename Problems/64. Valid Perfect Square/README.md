@@ -1,0 +1,3 @@
+# 64. Valid Perfect Square
+### Difficulty: Easy
+Given a positive integer num, write a function which returns True if num is a perfect square else False. <br/> Follow up: Do not use any built-in library function such as sqrt. <br/>   <br/><b>- Example</b> 1: <br/> Input: num = 16 <br/> Output: true <br/> <br/><b>- Example</b> 2: <br/> Input: num = 14 <br/> Output: false <br/>   Constraints: <br/> 1 <= num <= 2^31 - 1

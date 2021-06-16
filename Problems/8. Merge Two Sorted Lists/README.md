@@ -1,0 +1,3 @@
+# 8. Merge Two Sorted Lists
+### Difficulty: Easy
+Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists. <br/>   <br/><b>- Example</b> 1: <br/> Input: l1 = [1,2,4], l2 = [1,3,4] <br/> Output: [1,1,2,3,4,4] <br/> <br/><b>- Example</b> 2: <br/> Input: l1 = [], l2 = [] <br/> Output: [] <br/> <br/><b>- Example</b> 3: <br/> Input: l1 = [], l2 = [0] <br/> Output: [0] <br/>   Constraints: <br/> The number of nodes in both lists is in the range [0, 50]. <br/> -100 <= Node.val <= 100 <br/> Both l1 and l2 are sorted in non-decreasing order.

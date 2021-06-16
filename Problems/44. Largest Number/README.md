@@ -1,0 +1,3 @@
+# 44. Largest Number
+### Difficulty: Medium
+Given a list of non-negative integers nums, arrange them such that they form the largest number. <br/> Note: The result may be very large, so you need to return a string instead of an integer. <br/>   <br/><b>- Example</b> 1: <br/> Input: nums = [10,2] <br/> Output: "210" <br/> <br/><b>- Example</b> 2: <br/> Input: nums = [3,30,34,5,9] <br/> Output: "9534330" <br/> <br/><b>- Example</b> 3: <br/> Input: nums = [1] <br/> Output: "1" <br/> <br/><b>- Example</b> 4: <br/> Input: nums = [10] <br/> Output: "10" <br/>   Constraints: <br/> 1 <= nums.length <= 100 <br/> 0 <= nums[i] <= 109

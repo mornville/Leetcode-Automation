@@ -1,0 +1,3 @@
+# 15. Multiply Strings
+### Difficulty: Medium
+Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string. <br/> Note: You must not use any built-in BigInteger library or convert the inputs to integer directly. <br/>   <br/><b>- Example</b> 1: <br/> Input: num1 = "2", num2 = "3" <br/> Output: "6" <br/> <br/><b>- Example</b> 2: <br/> Input: num1 = "123", num2 = "456" <br/> Output: "56088" <br/>   Constraints: <br/> 1 <= num1.length, num2.length <= 200 <br/> num1 and num2 consist of digits only. <br/> Both num1 and num2 do not contain any leading zero, except the number 0 itself.

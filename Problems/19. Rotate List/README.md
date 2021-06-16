@@ -1,0 +1,3 @@
+# 19. Rotate List
+### Difficulty: Medium
+Given the head of a linked list, rotate the list to the right by k places. <br/>   <br/><b>- Example</b> 1: <br/> Input: head = [1,2,3,4,5], k = 2 <br/> Output: [4,5,1,2,3] <br/> <br/><b>- Example</b> 2: <br/> Input: head = [0,1,2], k = 4 <br/> Output: [2,0,1] <br/>   Constraints: <br/> The number of nodes in the list is in the range [0, 500]. <br/> -100 <= Node.val <= 100 <br/> 0 <= k <= 2 * 109

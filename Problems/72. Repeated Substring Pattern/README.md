@@ -1,0 +1,3 @@
+# 72. Repeated Substring Pattern
+### Difficulty: Easy
+Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. <br/>   <br/><b>- Example</b> 1: <br/> Input: s = "abab" <br/> Output: true <br/> Explanation: It is the substring "ab" twice. <br/> <br/><b>- Example</b> 2: <br/> Input: s = "aba" <br/> Output: false <br/> <br/><b>- Example</b> 3: <br/> Input: s = "abcabcabcabc" <br/> Output: true <br/> Explanation: It is the substring "abc" four times or the substring "abcabc" twice. <br/>   Constraints: <br/> 1 <= s.length <= 104 <br/> s consists of lowercase English letters.

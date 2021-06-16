@@ -1,0 +1,3 @@
+# 80. Search in a Binary Search Tree
+### Difficulty: Easy
+You are given the root of a binary search tree (BST) and an integer val. <br/> Find the node in the BST that the node's value equals val and return the subtree rooted with that node. If such a node does not exist, return null. <br/>   <br/><b>- Example</b> 1: <br/> Input: root = [4,2,7,1,3], val = 2 <br/> Output: [2,1,3] <br/> <br/><b>- Example</b> 2: <br/> Input: root = [4,2,7,1,3], val = 5 <br/> Output: [] <br/>   Constraints: <br/> The number of nodes in the tree is in the range [1, 5000]. <br/> 1 <= Node.val <= 107 <br/> root is a binary search tree. <br/> 1 <= val <= 107
